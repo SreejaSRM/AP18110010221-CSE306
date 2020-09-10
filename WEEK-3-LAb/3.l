@@ -1,4 +1,5 @@
 /* 3. Count number of vowels and consonants */
+
 %option noyywrap
 %{
   int v=0,c=0;
